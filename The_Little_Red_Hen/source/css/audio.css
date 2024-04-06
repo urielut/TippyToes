@@ -1,0 +1,45 @@
+
+audio{
+	margin:5px;
+	position: relative;
+}
+
+#controles9 .inicia9, #controles10 .inicia10, #controles11 .inicia11,#controles12 .inicia12, #controles .deten, #controles .regresa,
+#controles166 .inicia166, #controles177 .inicia177,#controles188 .inicia188, #controles199 .inicia199{
+	background: url(../images/buttons.png) no-repeat;
+	float: left;
+	width:34px;
+	height: 34px;
+	text-indent: -9000px;
+	padding: 2px;
+	cursor: pointer;
+
+}
+
+#controles9 .inicia9, #controles10 .inicia10, #controles11 .inicia11, #controles12 .inicia12,
+#controles166 .inicia166, #controles177 .inicia177, #controles188 .inicia188, #controles199 .inicia199{
+	background-position: 0 2px !important;
+}
+
+
+#controles .deten{
+	background-position: 0 2px !important;
+}
+
+#controles .regresa{
+	background-position: 0 2px !important;
+}
+
+#controles9 .inicia9:hover,#controles10 .inicia10:hover, #controles11 .inicia11:hover,#controles12 .inicia12:hover, 
+#controles166 .inicia166:hover, #controles177 .inicia177:hover, #controles188 .inicia188:hover, #controles199 .inicia199:hover{
+	background-position: 0 -33px !important;
+}
+
+
+#controles .deten:hover{
+	background-position: 0 -33px !important;
+}
+
+#controles .regresa:hover{
+	background-position: 0 -33px !important;
+}
