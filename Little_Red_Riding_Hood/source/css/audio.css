@@ -1,0 +1,60 @@
+
+audio{
+	margin:5px;
+	position: relative;
+}
+
+#controles .inicia,#controles .deten, #controles2 .inicia2, #controles3 .inicia3, #controles4 .inicia4, #controles5 .inicia5, 
+#controles6 .inicia6, #controles7 .inicia7,#controles7a .inicia7a,#controles8 .inicia8, #controles8a .inicia8a, #controles9 .inicia9, #controles10 .inicia10, 
+#controles11 .inicia11,#controles12 .inicia12,#controles13 .inicia13,#controles14 .inicia14,#controles15 .inicia15,
+#controles16 .inicia16,#controles17 .inicia17,#controles18 .inicia18,#controles19 .inicia19,#controles20 .inicia20, 
+#controles21 .inicia21, #controles22 .inicia22,#controles23 .inicia23,#controles24 .inicia24,#controles25 .inicia25,#controles26 .inicia26,#controles27 .inicia27,
+#controles28 .inicia28,#controles29 .inicia29,#controles30 .inicia30,#controles31 .inicia31,#controles32 .inicia32,#controles33 .inicia33,
+#controles34 .inicia34,#controles35 .inicia35,#controles35a .inicia35a,#controles36 .inicia36,#controles37 .inicia37,#controles38 .inicia38,#controles39 .inicia39,#controles40 .inicia40,#controles .deten, #controles .regresa{
+	background: url(../images/buttons.png) no-repeat;
+	float: left;
+	width:34px;
+	height: 34px;
+	text-indent: -9000px;
+	padding: 2px;
+	cursor: pointer;
+
+}
+
+#controles .inicia, #controles2 .inicia2, #controles3 .inicia3, #controles4 .inicia4, #controles5 .inicia5,
+#controles6 .inicia6, #controles7 .inicia7,#controles7a .inicia7a, #controles8 .inicia8,#controles8a .inicia8a, #controles9 .inicia9, #controles10 .inicia10, 
+#controles11 .inicia11, #controles12 .inicia12, #controles13 .inicia13, #controles14 .inicia14, #controles15 .inicia15,
+#controles16 .inicia16,#controles17 .inicia17,#controles18 .inicia18,#controles19 .inicia19,#controles20 .inicia20, 
+#controles21 .inicia21, #controles22 .inicia22,#controles23 .inicia23,#controles24 .inicia24,#controles25 .inicia25,#controles26 .inicia26,#controles27 .inicia27,
+#controles28 .inicia28,#controles29 .inicia29,#controles30 .inicia30,#controles31 .inicia31,#controles32 .inicia32,#controles33 .inicia33, #controles34 .inicia34,
+#controles35 .inicia35,#controles35a .inicia35a,#controles36 .inicia36,#controles37 .inicia37,#controles38 .inicia38,#controles39 .inicia39,#controles40 .inicia40{
+	background-position: 0 2px !important;
+}
+
+
+#controles .deten{
+	background-position: 0 2px !important;
+}
+
+#controles .regresa{
+	background-position: 0 2px !important;
+}
+
+#controles .inicia:hover, #controles2 .inicia2:hover, #controles3 .inicia3:hover, #controles4 .inicia4:hover, #controles5 .inicia5:hover,
+#controles6 .inicia6:hover,#controles7 .inicia7:hover,#controles7a .inicia7a:hover,#controles8 .inicia8:hover,#controles8a .inicia8a:hover,#controles9 .inicia9:hover,#controles10 .inicia10:hover,
+#controles11 .inicia11:hover,#controles12 .inicia12:hover,#controles13 .inicia13:hover,#controles14 .inicia14:hover,#controles15 .inicia15:hover,
+#controles16 .inicia16:hover,#controles17 .inicia17:hover,#controles18.inicia18:hover,#controles19 .inicia19:hover,#controles20 .inicia20:hover,
+#controles21 .inicia21:hover,#controles22 .inicia22:hover,#controles23 .inicia23:hover,#controles24 .inicia24:hover,#controles25 .inicia25:hover,#controles26 .inicia26:hover,
+#controles27 .inicia27:hover,#controles28 .inicia28:hover,#controles29 .inicia29:hover,#controles30 .inicia30:hover,#controles31 .inicia31:hover,#controles32 .inicia32:hover,
+#controles33 .inicia33:hover,#controles34 .inicia34:hover,#controles35 .inicia35:hover,#controles35a .inicia35a:hover,#controles36 .inicia36:hover,#controles37 .inicia37:hover,#controles38 .inicia38:hover,#controles39 .inicia39:hover,#controles40 .inicia40:hover{
+	background-position: 0 -33px !important;
+}
+
+
+#controles .deten:hover{
+	background-position: 0 -33px !important;
+}
+
+#controles .regresa:hover{
+	background-position: 0 -33px !important;
+}
